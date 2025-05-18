@@ -35,9 +35,9 @@ Vamos con los requisitos previos:
 - npm
 
 #En primer lugar hay que clonar el repositorio:
-```bash
-git clone https://github.com/TU_USUARIO/clases-particulares.git
-cd clases-particulares
+(```bash)
+git clone https://github.com/juanmiramirez/clases_particulares.git
+cd clases_particulares
 
 # En segundo lugar se configura el backend:
 cd backend
@@ -101,5 +101,5 @@ Trabajo final de grado- Universitat Oberta de Catalunya
 Autor: Juan María Ramirez Carrasco
 Curso: 2024-2025
 Área: Desarrollo Web
-Repositorio: 
+Repositorio: https://github.com/juanmiramirez/clases_particulares
 
