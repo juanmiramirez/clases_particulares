@@ -65,10 +65,6 @@ npm run dev
 
 # Hay que asegurarse de que el valor de NEXT_PUBLIC_API_URL en env.local.example apunta a: http://localhost:4000
 
-# Hay una opción de despliegue implementada de forma opcional: 
-
-Vercel (frontend) donde se puede conectar la carpeta del frontend y configurar la NEXT_PUBLIC_API_URL como variable de entorno.
-Render (Backend) subiendo la carpeta del backend, creando un servicio web de Node.js y configurando las variables de entorno de forma manual. 
 
 #La estructura del proyecto es la siguiente:
 
