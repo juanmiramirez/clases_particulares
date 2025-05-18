@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Entornos
+.env
+.env.local
+
+# Next.js
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# SO / IDE
+.DS_Store
+.vscode/
+.idea/
